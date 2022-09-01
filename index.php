@@ -94,20 +94,7 @@
 
                         <center>
                         <div class="col-lg-4 col-md-4 col-sm-12">
-                            <?php
-                            $teks = "terimakasih";
-                            switch ($teks) {
-                                case "terimakasih":
-                                    echo "<h3>Terimakasih Telah mampir</h3>";
-                                    break;
-                                case "oke":
-                                    echo "<h3>Oke</h3>";
-                                    break;
-                                default:
-                                    echo "Tidak ada yang dipilih";
-                                    break;
-                            }
-                            ?>
+                            
                         </div>
                         </center>
                     </div>
